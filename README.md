@@ -10,3 +10,5 @@ This repository hosts the R code and documentation files for the Data Science's 
 <ul>Merge the two datasets</ul>
 <ul>Labeling the data set with variable names</ul>
 <ul>Creates a tidy dataset of mean value of each variable for each subject and activity</ul>
+
+<h3> RESULTS IN tidySet.txt </h3>
